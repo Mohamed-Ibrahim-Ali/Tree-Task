@@ -1,0 +1,13 @@
+.type-icon {
+  color: #dfd32d;
+  margin-right: 5px;
+}
+button:focus{
+  outline: none;
+}
+span{
+  text-transform: capitalize;
+  font-size: 22px;
+  font-weight: 600;
+  color: #080;
+}
